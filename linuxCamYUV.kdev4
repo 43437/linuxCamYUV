@@ -1,4 +1,4 @@
 [Project]
-Name=CaptureOneFrame
+Name=linuxCamYUV
 Manager=KDevCMakeManager
 VersionControl=kdevgit
